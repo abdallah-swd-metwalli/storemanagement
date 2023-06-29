@@ -74,6 +74,9 @@ table{
   text-align: center;
   margin: 10px 0;
 }
+table .overflow {
+  overflow-x: auto;
+}
 table th{
   text-transform: uppercase;
 }
